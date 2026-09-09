@@ -30,17 +30,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.0701937460797257,
-          "pitch": 0.1912260258045979,
+          "yaw": 1.079660481113761,
+          "pitch": 0.30090024532019655,
           "rotation": 0,
-          "target": "0-type-6"
+          "target": "1-bathroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-type-6-bath",
-      "name": "TYPE 6 BATH",
+      "id": "1-bathroom",
+      "name": "BATHROOM",
       "levels": [
         {
           "tileSize": 256,
